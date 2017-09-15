@@ -63,6 +63,7 @@
           //     }
           //   });
           // });
+          // mqq.data.setShareInfo(info, callback)中的callback属于设置完成回调，而不是用户触发分享后的成功回调
           window.mqq.data.setShareInfo(info);
         } else {
           window.mqq.data.setShareInfo(info);
