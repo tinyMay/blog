@@ -79,7 +79,9 @@ deploy:
   branch: master
 
 # 百度站点统计 tinyMay
-baidu_analytics: 7d7c3856367a8756e7ba9b324b19e5b2
+# baidu_analytics: 7d7c3856367a8756e7ba9b324b19e5b2
+# 百度站点统计 kadzszm
+baidu_analytics: d422acbe340d079e964611eea87012c5
 # 站内搜索
 search:
   path: search.xml
